@@ -18,9 +18,9 @@
 Cette extension dont la valeur est `true` ou `false` permet d'indiquer qu'une activité à vocation d'évaluation ou non. Elle est particulièrement utile lorsque le type d'activité ne permet pas cette distinction.
 
 
-### concept-familly
+### concept-family
 
-**IRI:** `http://vocab.xapi.fr/extensions/concept-familly`
+**IRI:** `http://vocab.xapi.fr/extensions/concept-family`
 
 Alors que le type d'une activité est supposé décrire relativement précisément la nature de l'activité, cette extension permet de catégoriser les activités en grandes familles. Cette classification présente un intérêt en termes d'analyse statistique.
 
