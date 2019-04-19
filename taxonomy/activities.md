@@ -1,4 +1,4 @@
-# Taxonomie : Types d'activités
+# Taxonomy: Activity Types
 
 ---
 

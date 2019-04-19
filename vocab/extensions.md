@@ -1,14 +1,14 @@
-# Vocabulaire : Extensions
+# Vocabulary: Extensions
 
 ---
 
-- [Extensions d'activité](#activity)
-- [Extensions de résultat](#result)
-- [Extensions de contexte](#context)
+- [Activity Extensions](#activity)
+- [Result Extensions](#result)
+- [Context Extensions](#context)
 
 
 <a name="activity"></a>
-## Extensions d'activité
+## Activity Extensions
 
 
 ### assessment
@@ -92,7 +92,7 @@ Cette extension permet de préciser le standard respecté par l'activité : `sco
 
 
 <a name="result"></a>
-## Extensions de résultat
+## Result Extensions
 
 
 ### assessment-items
@@ -125,7 +125,7 @@ Cette extension permet de lister des indicateurs considérés comme non satisfai
 
 
 <a name="context"></a>
-## Extensions de contexte
+## Context Extensions
 
 
 ### question-mode

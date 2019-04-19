@@ -1,18 +1,19 @@
 - ## xAPI.fr
-    - [A propos](/profiles/xapi/readme)
+    - [About](/profiles/xapi/readme)
 
-- ## Taxonomie
-    - [Verbes](/profiles/xapi/taxonomy/verbs)
-    - [Types d'activités](/profiles/xapi/taxonomy/activities)
+- ## Taxonomy
+    - [Verbs](/profiles/xapi/taxonomy/verbs)
+    - [Activity Types](/profiles/xapi/taxonomy/activities)
 
-- ## Vocabulaire
-    - [Verbes](/profiles/xapi/vocab/verbs)
-    - [Types d'activités](/profiles/xapi/vocab/activities)
+- ## Vocabulary
+    - [Verbs](/profiles/xapi/vocab/verbs)
+    - [Activity Types](/profiles/xapi/vocab/activities)
     - [Extensions](/profiles/xapi/vocab/extensions)
-    - [Catégories](/profiles/xapi/vocab/categories)
+    - [Categories](/profiles/xapi/vocab/categories)
 
-- ## Profils
+- ## Profiles
     - [VLE](/profiles/vle/readme)
+    - [Moodle](/profiles/moodle/readme)
     - [xQuiz](/profiles/xquiz/readme)
     - [Polaris](/profiles/polaris/readme)
 

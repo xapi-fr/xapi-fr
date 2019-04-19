@@ -1,4 +1,4 @@
-# Vocabulaire : Types d'activités
+# Vocabulary: Activity Types
 
 ---
 

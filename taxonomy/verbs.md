@@ -1,11 +1,12 @@
-# Taxonomie : Verbes
+# Taxonomy: Verbs
 
 ---
 
 - [Preparation](#preparation)
 - [Navigation](#navigation)
-- [Interaction](#interaction)
+- [Completion](#completion)
 - [Result](#result)
+- [Interaction](#interaction)
 
 
 <a name="preparation"></a>
@@ -23,18 +24,16 @@
 - Viewed : `http://id.tincanapi.com/verb/viewed`
 
 
-<a name="interaction"></a>
-## Interaction
+<a name="completion"></a>
+## Completion
 
-- Asked : `http://adlnet.gov/expapi/verbs/asked`
-- Answered : `http://adlnet.gov/expapi/verbs/answered`
-- Requested-attention : `http://id.tincanapi.com/verb/requested-attention`
+- progressed : `http://adlnet.gov/expapi/verbs/progressed`
+- Completed : `http://adlnet.gov/expapi/verbs/completed`
 
 
 <a name="result"></a>
 ## Result
 
-- Completed : `http://adlnet.gov/expapi/verbs/completed`
 - Passed : `http://adlnet.gov/expapi/verbs/passed`
 - Partially Passed : `http://vocab.xapi.fr/verbs/partially-passed`
 - Failed : `http://adlnet.gov/expapi/verbs/failed`
@@ -42,5 +41,14 @@
 - Partially Satisfied : `http://vocab.xapi.fr/verbs/partially-satisfied`
 - Dissatisfied : `http://vocab.xapi.fr/verbs/dissatisfied`
 - Was Assessed : `http://vocab.xapi.fr/verbs/was-assessed`
+
+
+<a name="interaction"></a>
+## Interaction
+
+- Asked : `http://adlnet.gov/expapi/verbs/asked`
+- Answered : `http://adlnet.gov/expapi/verbs/answered`
+- Requested-attention : `http://id.tincanapi.com/verb/requested-attention`
+
 
 
