@@ -1,5 +1,5 @@
 - ## xAPI.fr
-    - [About](/profiles/xapi/readme)
+    - [About](/profiles/xapi)
 
 - ## Taxonomy
     - [Verbs](/profiles/xapi/taxonomy/verbs)
@@ -12,8 +12,8 @@
     - [Categories](/profiles/xapi/vocab/categories)
 
 - ## Profiles
-    - [VLE](/profiles/vle/readme)
-    - [Moodle](/profiles/moodle/readme)
-    - [xQuiz](/profiles/xquiz/readme)
-    - [Polaris](/profiles/polaris/readme)
+    - [VLE](/profiles/vle)
+    - [Moodle](/profiles/moodle)
+    - [xQuiz](/profiles/xquiz)
+    - [Polaris](/profiles/polaris)
 
