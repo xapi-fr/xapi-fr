@@ -16,125 +16,126 @@
 
 **IRI:** `http://vocab.xapi.fr/activities/assignment`
 
-Activité de type "devoir" ou "travail personnel". L'apprenant doit suivre les instructions du formateur afin de réaliser un travail, puis le remettre au formateur qui pourra éventuellement l'évaluer. Il peut s'agir d'un travail individuel ou collectif. Ce type d'activité se distingue de l'activité `http://vocab.xapi.fr/activities/workshop` dans le sens où il s'agit d'un travail en relative autonomie, sans présence et animation permanente d'un formateur.
+A work the learner must do, following instructions from a teacher. An assignment may be individual or collective.
 
 
 ### chat-room
 
 **IRI:** `http://vocab.xapi.fr/activities/chat-room`
 
-Activité dans laquelle prennent place des discussions textuelles en temps réel. Plusieurs sessions ou canaux de discussion peuvent prendre place au sein d'une salle de chat. Chaque discussion, prise indépendamment, utilise le type `http://id.tincanapi.com/activitytype/chat-channel`.
+Activity where one or several real-time and textual discussions take place. When several discussions take place in the same chat-room, each discussion is seen as a chat-channel (`http://id.tincanapi.com/activitytype/chat-channel`).
 
 
 ### collaborative-content
 
 **IRI:** `http://vocab.xapi.fr/activities/collaborative-content`
 
-Activité consistant à éditer un contenu de manière collaborative. Le Wiki est un exemple de contenu collaboratif.
+Content created in a collaborative way, by several authors (e.g. a Wiki).
 
 
 ### external-activity
 
 **IRI:** `http://vocab.xapi.fr/activities/external-activity`
 
-Activité externe à une plateforme, dont le type ne peut être défini plus précisément. L'accès à l'activité depuis la plateforme peut se faire par un lien ou une intégration LTI par exemple.
+Activity which takes place outside of a platform, without being able to quality more precisely the type of this activity (e.g. an LTI activity).
 
 
 ### face-to-face
 
 **IRI:** `http://vocab.xapi.fr/activities/face-to-face`
 
-Séance présentiel.
+Face-to-face session (e.g. classroom session).
 
 
 ### flight
 
 **IRI:** `http://vocab.xapi.fr/activities/flight`
 
-Séance de vol.
+Flight session.
 
 
 ### forum
 
 **IRI:** `http://vocab.xapi.fr/activities/forum`
 
-Activité de type "forum de discussion", c'est à dire un espace dans lequel prennent place une ou plusieurs discussions textuelles et asynchrones. Chaque fil de discussion, pris indépendamment, utilise le type `http://id.tincanapi.com/activitytype/discussion`.
+Discussion forum where several discussions take place. The type of each discussion taken individually is `http://id.tincanapi.com/activitytype/discussion`.
 
 
 ### level-report
 
 **IRI:** `http://vocab.xapi.fr/activities/level-report`
 
-Activité de type "bilan d'étape", c'est à dire une évaluation permettant de vérifier le niveau de l'apprenant à une étape clé de son parcours.
+Activity which aims to assess a set of competencies at a specific step of a training programme. 
 
 
 ### live-session
 
 **IRI:** `http://vocab.xapi.fr/activities/live-session`
 
-Activité synchrone, pouvant se dérouler en présentiel ou à distance. Ce type d'activité est utilisé à défaut d'un type plus précis.
+Real-time session which may occur in distance or not. The type is used when there is no more qualified type to describe the session.
 
 
 ### poll
 
 **IRI:** `http://vocab.xapi.fr/activities/poll`
 
-Activité de type "vote", constituée le plus souvent d'une seule question ou d'un nombre très limité de questions, utilisé principalement à des fins d'animation de la formation. Cette activité se distingue de l'activité `http://vocab.xapi.fr/activities/survey` par son coté bref et informel.
+Single question used to get a feedback or opinion from users during a live session or at a specific step of a training programme.
 
 
 ### quiz
 
 **IRI:** `http://vocab.xapi.fr/activities/quiz`
 
-Questionnaire électronique, constitué d'une série de questions dont la nature peut varier (QCM, association, texte à trou, etc.), donnant généralement lieu à une notation. Les quiz peuvent avoir une visée formative ou sommative. 
+A set of questions with an automated scoring.
+
 
 ### resources
 
 **IRI:** `http://vocab.xapi.fr/activities/resources`
 
-Ensemble de ressources à consulter, quelle que soit la nature de ces ressources (fichiers, liens, vidéos, etc.).
+A set of resources without presuming the type of these resources.
 
 
 ### skills-test
 
 **IRI:** `http://vocab.xapi.fr/activities/skills-test`
 
-Activité de type "évaluation de capacités", c'est à dire une évaluation permettant de vérifier la capacité de l'apprenant à mettre en oeuvre ses connaissances dans un contexte pratique.
+Activity which aims to assess a set of skills at a specific step of a training programme, usually with a practical performance. 
 
 
 ### survey
 
 **IRI:** `http://vocab.xapi.fr/activities/survey`
 
-Activité de type "sondage" ou "enquête", qui vise par une série de questions a évaluer des attentes ou collecter des avis. Cette activité se distingue de l'activité `http://vocab.xapi.fr/activities/poll` par une approche plus formelle et systématique.
+A set of questions used to get a feedback or opinion from users.
+
 
 ### web-content
 
 **IRI:** `http://vocab.xapi.fr/activities/web-content`
 
-Contenu constitué d'un ensemble structuré de pages HTML. On ne distingue pas ici la manière dont sont produits et déployés les contenus. Il peut s'agir de packages standardisés (SCORM, IMS CC, CMI5), non standardisés (ZIP + HTML) ou de contenus directement développés au sein de la plateforme.
+Content made of several HTML pages. We don't care how this content has been made. A SCORM package is a web content, as well as a set of non-standardized HTML pages.
 
 
 ### web-link
 
 **IRI:** `http://vocab.xapi.fr/activities/web-link`
 
-Lien vers une ressource Web, c'est à dire une page, un site ou un fichier disponible sur le Web. Cela exclut les liens internes à une plateforme, utilisés à des fins de simple navigation.
+A link which points to a web page, a web site or a file located somewhere on the web. 
 
 
 ### web-page
 
 **IRI:** `http://vocab.xapi.fr/activities/web-page`
 
-Contenu constitué d'une seule page HTML. Les contenus plus structurés, composés de plusieurs pages, adoptent pour leur part le type `http://vocab.xapi.fr/activities/web-content`.
+Content made of a single HTML page.
 
 
 ### workshop
 
 **IRI:** `http://vocab.xapi.fr/activities/workshop`
 
-Activité de type "atelier", c'est à dire un travail collaboratif autour d'un sujet soumis par le formateur. Cette activité donne généralement lieu à une production collective pouvant être évaluée ou non. Ce type d'activité se distingue de l'activité `http://vocab.xapi.fr/activities/workshop` dans le sens où la présence du formateur en tant qu'animateur joue un rôle primordial.
-
+A collaborative activity animated by a teacher.
 
 
 <a name="structural"></a>
@@ -145,42 +146,42 @@ Activité de type "atelier", c'est à dire un travail collaboratif autour d'un s
 
 **IRI:** `http://vocab.xapi.fr/activities/course`
 
-Ensemble d'activités organisées de manière structurée, visant à réponse à un objectif pédagogique clairement défini. Un cours peut être composé d'activités de diverses natures : contenu, activités sociales, séances présentiels, etc.
+A set of organized learning resources focusing on the same subject and pursuing the same global learning objective.
 
 
 ### registration
 
 **IRI:** `http://vocab.xapi.fr/activities/registration`
 
-Activité correspondant à une "session de formation", c'est à dire à la mise en oeuvre d'une formation pour un groupe d'apprenants inscrits. Cela fournit une alternative claire à la propriété `context.registration` dont l'usage est plus vague.
+A learner or group of learners which have been registered to a training programme, usually between a range of dates.
 
 
 ### system
 
 **IRI:** `http://vocab.xapi.fr/activities/system`
 
-Système informatique quelconque, permettant aux utilisateurs d'accéder à des activités. Il peut s'agir d'un LMS, d'une plateforme de MOOC, d'un blog, d'une application, etc. 
+Generic way to designate a platform where learning activities take place (e.g. LMS, LXP, MOOC platform).
 
 
 ### training-program
 
 **IRI:** `http://vocab.xapi.fr/activities/training-program`
 
-Programme de formation permettant de traiter un objectif pédagogique très large (ex. master). Un programme est généralement étalé dans le temps et décomposé en périodes (phases) et/ou matières (modules).
+A large and structured set of learning activities, focusing on a very large training objective.
 
 
 ### training-phase
 
 **IRI:** `http://vocab.xapi.fr/activities/training-phase`
 
-Période de formation s'inscrivant généralement dans un programme plus large (ex. 1er semestre d'un master). Une phase est généralement étalée dans le temps et peut être décomposée en matières (modules) et/ou activités pédagogiques.
+A sub-set of a training programme, where the learning activities take place during a well defined period of time.
 
 
 ### training-module
 
 **IRI:** `http://vocab.xapi.fr/activities/training-module`
 
-Partie d'un programme de formation focalisant sur une matière précise ou un objectif pédagogique précis. Un module est généralement composé d'activités pédagogiques.
+A sub-set of a training programme, where the learning activities focus on a specific training objective.
 
 
 
@@ -192,7 +193,7 @@ Partie d'un programme de formation focalisant sur une matière précise ou un ob
 
 **IRI:** `http://vocab.xapi.fr/activities/competency-domain`
 
-Domaine de compétences, c'est à dire un ensemble de compétences clairement identifiées. 
+A large and structured set of competencies.
 
 
 <a name="categories"></a>
@@ -203,6 +204,6 @@ Domaine de compétences, c'est à dire un ensemble de compétences clairement id
 
 **IRI:** `http://vocab.xapi.fr/activities/granularity-level`
 
-Les activités de type "granularity-level" sont utilisées pour marquer les Statements en fonction du niveau de granularité dans lequel se situe l'action. Ce marquage peut être utile pour filtrer les Statements en ne focalisant que sur un certain niveau de détail. Ce type d'activité est inséré dans la propriété `context.contextActivities.category`.
+The granularity level the level of detail of a learning event or interaction.
 
 

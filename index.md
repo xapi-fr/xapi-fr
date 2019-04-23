@@ -1,6 +1,3 @@
-- ## xAPI.fr
-    - [About](/profiles/xapi)
-
 - ## Taxonomy
     - [Verbs](/profiles/xapi/taxonomy/verbs)
     - [Activity Types](/profiles/xapi/taxonomy/activities)

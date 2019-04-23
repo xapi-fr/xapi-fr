@@ -13,7 +13,8 @@
 
 **IRI:** `http://vocab.xapi.fr/categories/inside-learning-unit`
 
-Utilisé comme identifiant du type d'activité `http://vocab.xapi.fr/activities/granularity-level` pour préciser que l'action porte sur un élément interne à une unité d'apprentissage. 
+IRI used as the ID of an activity with a `http://vocab.xapi.fr/activities/granularity-level` type
+to indicate that the event happens inside a learning unit.
 
 
 <a name="learning-unit"></a>
@@ -21,8 +22,8 @@ Utilisé comme identifiant du type d'activité `http://vocab.xapi.fr/activities/
 
 **IRI:** `http://vocab.xapi.fr/categories/learning-unit`
 
-Utilisé comme identifiant du type d'activité `http://vocab.xapi.fr/activities/granularity-level` pour préciser que l'action porte sur une unité d'apprentissage.
-Une unité d'apprentissage (Learning Unit) est une activité qui focalise sur un objectif pédagogique précis, traité avec un type d'activité particulier (ex. content-package, forum, assignment, etc.). Son achèvement ou sa réussite sont généralement mesurés, contribuant ainsi à la progression de l'apprenant dans un contexte plus large (généralement un cours). 
+IRI used as the ID of an activity with a `http://vocab.xapi.fr/activities/granularity-level` type
+to indicate that the event happens precisely on a learning unit.
 
 
 <a name="outside-learning-unit"></a>
@@ -30,7 +31,8 @@ Une unité d'apprentissage (Learning Unit) est une activité qui focalise sur un
 
 **IRI:** `http://vocab.xapi.fr/categories/outside-learning-unit`
 
-Utilisé comme identifiant du type d'activité `http://vocab.xapi.fr/activities/granularity-level` pour préciser que l'action porte sur un élément externe à une unité d'apprentissage. 
+IRI used as the ID of an activity with a `http://vocab.xapi.fr/activities/granularity-level` type
+to indicate that the event happens outside a learning unit.
 
 
 <a name="vle-profile"></a>
@@ -38,7 +40,8 @@ Utilisé comme identifiant du type d'activité `http://vocab.xapi.fr/activities/
 
 **IRI:** `http://vocab.xapi.fr/categories/vle-profile`
 
-Le profil VLE (Virtual Learning Environment) précise les modalités de suivi d'un environnement d'apprentissage (LMS, MOOC, etc.) avec xAPI. Il est mentionnée dans tous les Statements qui respectent le profil VLE.
+IRI used as the ID of an activity with a `http://adlnet.gov/expapi/activities/profile` type
+to indicate that the statement conforms with the xAPI VLE profile.
 
 
 
