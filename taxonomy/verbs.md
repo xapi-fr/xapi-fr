@@ -27,7 +27,7 @@
 <a name="completion"></a>
 ## Completion
 
-- progressed : `http://adlnet.gov/expapi/verbs/progressed`
+- Progressed : `http://adlnet.gov/expapi/verbs/progressed`
 - Completed : `http://adlnet.gov/expapi/verbs/completed`
 
 

@@ -149,6 +149,13 @@ A collaborative activity animated by a teacher.
 A set of organized learning resources focusing on the same subject and pursuing the same global learning objective.
 
 
+### course-category
+
+**IRI:** `http://vocab.xapi.fr/activities/course-category`
+
+A set of courses focusing on the same topic or targetting the same audience.
+
+
 ### registration
 
 **IRI:** `http://vocab.xapi.fr/activities/registration`

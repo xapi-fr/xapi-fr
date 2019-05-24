@@ -64,6 +64,7 @@
 ## Structural Activity
 
 - Course : `http://vocab.xapi.fr/activities/course`
+- Course Category: `http://vocab.xapi.fr/activities/course-category`
 - Registration : `http://vocab.xapi.fr/activities/registration`
 - System : `http://vocab.xapi.fr/activities/system`
 - Training Module : `http://vocab.xapi.fr/activities/training-module`
