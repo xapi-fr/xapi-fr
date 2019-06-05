@@ -131,6 +131,13 @@ This extension accepts a list of indicators (tags or IRIs) that where not satisf
 ## Context Extensions
 
 
+### platform-event
+
+**IRI:** `http://vocab.xapi.fr/extensions/platform-event`
+
+This extension is used to specify the original event as it is specifically known by a platform.
+
+
 ### question-mode
 
 **IRI:** `http://vocab.xapi.fr/extensions/question-mode`
