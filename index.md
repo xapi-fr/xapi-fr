@@ -12,5 +12,6 @@
     - [VLE](/profiles/vle)
     - [Moodle](/profiles/moodle)
     - [xQuiz](/profiles/xquiz)
+    - [xProf](/profiles/xprof)
     - [Polaris](/profiles/polaris)
 

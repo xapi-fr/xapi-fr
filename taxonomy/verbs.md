@@ -4,10 +4,10 @@
 
 - [Authentication](#authentication)
 - [Navigation](#navigation)
-- [Preparation](#preparation)
 - [Completion](#completion)
 - [Result](#result)
 - [Interaction](#interaction)
+- [Workflow](#workflow)
 
 
 <a name="authentication"></a>
@@ -22,12 +22,6 @@
 
 - Navigated-In: `http://vocab.xapi.fr/verbs/navigated-in`
 - Viewed: `http://id.tincanapi.com/verb/viewed`
-
-
-<a name="preparation"></a>
-## Preparation
-
-- Initialized: `http://adlnet.gov/expapi/verbs/initialized`
 
 
 <a name="completion"></a>
@@ -56,6 +50,14 @@
 - Asked: `http://adlnet.gov/expapi/verbs/asked`
 - Answered: `http://adlnet.gov/expapi/verbs/answered`
 - Requested-attention: `http://id.tincanapi.com/verb/requested-attention`
+
+
+<a name="workflow"></a>
+## Workflow
+
+- Initialized: `http://adlnet.gov/expapi/verbs/initialized`
+- Terminated: `http://adlnet.gov/expapi/verbs/terminated`
+- Voided: `http://adlnet.gov/expapi/verbs/voided`
 
 
 

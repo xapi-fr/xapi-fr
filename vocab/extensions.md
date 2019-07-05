@@ -34,6 +34,20 @@ For instance, *forum* and *chat* activities belong to a larger family named *dis
 This extension accepts a list of values and is an alternative to the `definition.correctResponsesPattern` property when the activity type is not a `cmi.interaction`.
 
 
+### date
+
+**IRI:** `http://vocab.xapi.fr/extensions/date`
+
+This extension accepts an ISO 8601 value and defines the date of an activity.
+
+
+### deferred
+
+**IRI:** `http://vocab.xapi.fr/extensions/deferred`
+
+This extension accepts a boolean value. The statements of a deferred activity are sent after the activity really happened.
+
+
 ### duration
 
 **IRI:** `http://vocab.xapi.fr/extensions/duration`
