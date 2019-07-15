@@ -55,6 +55,7 @@
 <a name="workflow"></a>
 ## Workflow
 
+- Defined: `http://id.tincanapi.com/verb/defined`
 - Initialized: `http://adlnet.gov/expapi/verbs/initialized`
 - Terminated: `http://adlnet.gov/expapi/verbs/terminated`
 - Voided: `http://adlnet.gov/expapi/verbs/voided`
