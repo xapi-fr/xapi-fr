@@ -34,25 +34,11 @@ For instance, *forum* and *chat* activities belong to a larger family named *dis
 This extension accepts a list of values and is an alternative to the `definition.correctResponsesPattern` property when the activity type is not a `cmi.interaction`.
 
 
-### date
-
-**IRI:** `http://vocab.xapi.fr/extensions/date`
-
-This extension accepts an ISO 8601 value and defines the date of an activity.
-
-
 ### deferred
 
 **IRI:** `http://vocab.xapi.fr/extensions/deferred`
 
 This extension accepts a boolean value. The statements of a deferred activity are sent after the activity really happened.
-
-
-### duration
-
-**IRI:** `http://vocab.xapi.fr/extensions/duration`
-
-This extension accepts an ISO 8601 duration value to specify the theorical duration of the activity.
 
 
 ### learning-outcomes
@@ -145,6 +131,49 @@ This extension accepts a list of indicators (tags or IRIs) that where not satisf
 ## Context Extensions
 
 
+### attempts-number
+
+**IRI:** `http://vocab.xapi.fr/extensions/attempts-number`
+
+This extension defines the number of attempts performed by the learner. 
+
+
+### launch-method
+
+**IRI:** `http://vocab.xapi.fr/extensions/launch-method`
+
+This extension defines the launching method of a content as it is defined in the CMI5 specification. Possible values are `OwnWindow` and `AnyWindow`. 
+
+
+### learner
+
+**IRI:** `http://vocab.xapi.fr/extensions/learner`
+
+This extension defines the learner (Agent) concerned by the statement when this learner is neither the actor nor the object of the statement.
+
+
+### location
+
+**IRI:** `http://vocab.xapi.fr/extensions/location`
+
+This extension defines the location where the action took place.
+The location has an `id` property, as well as a `name` property with the name of the location. 
+
+
+### max-attempts
+
+**IRI:** `http://vocab.xapi.fr/extensions/max-attempts`
+
+This extension defines the maximum number of attempts allowed on the object. 
+
+
+### max-time
+
+**IRI:** `http://vocab.xapi.fr/extensions/max-time`
+
+This extension defines the maximum time allowed to achieve an activity (ISO 8601).
+
+
 ### platform-event
 
 **IRI:** `http://vocab.xapi.fr/extensions/platform-event`
@@ -159,11 +188,11 @@ This extension is used to specify the original event as it is specifically known
 This extension details the context in which a question were asked.
 
 
-### location
+### scoring-method
 
-**IRI:** `http://vocab.xapi.fr/extensions/location`
+**IRI:** `http://vocab.xapi.fr/extensions/scoring-method`
 
-This extension defines the location where the action took place.
-The location has an `id` property, as well as a `name` property with the name of the location. 
+This extension defines which score must be kept when the learner gets multiple scores. 
+
 
 

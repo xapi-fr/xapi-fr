@@ -7,7 +7,8 @@
 - [Completion](#completion)
 - [Result](#result)
 - [Interaction](#interaction)
-- [Workflow](#workflow)
+- [Execution Flow](#execution-flow)
+- [Management Flow](#management-flow)
 
 
 <a name="authentication"></a>
@@ -52,12 +53,18 @@
 - Requested-attention: `http://id.tincanapi.com/verb/requested-attention`
 
 
-<a name="workflow"></a>
-## Workflow
+<a name="execution-flow"></a>
+## Execution Flow
 
-- Defined: `http://id.tincanapi.com/verb/defined`
+- Launched: `http://adlnet.gov/expapi/verbs/launched`
 - Initialized: `http://adlnet.gov/expapi/verbs/initialized`
 - Terminated: `http://adlnet.gov/expapi/verbs/terminated`
+
+
+<a name="management-flow"></a>
+## Management Flow
+
+- Defined: `http://id.tincanapi.com/verb/defined`
 - Voided: `http://adlnet.gov/expapi/verbs/voided`
 
 
