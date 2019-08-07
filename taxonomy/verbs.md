@@ -28,36 +28,37 @@
 <a name="completion"></a>
 ## Completion
 
-- Progressed: `http://adlnet.gov/expapi/verbs/progressed`
 - Completed: `http://adlnet.gov/expapi/verbs/completed`
+- Progressed: `http://adlnet.gov/expapi/verbs/progressed`
 
 
 <a name="result"></a>
 ## Result
 
-- Scored: `http://adlnet.gov/expapi/verbs/scored`
-- Passed: `http://adlnet.gov/expapi/verbs/passed`
-- Partially Passed: `http://vocab.xapi.fr/verbs/partially-passed`
-- Failed: `http://adlnet.gov/expapi/verbs/failed`
-- Satisfied: `https://w3id.org/xapi/adl/verbs/satisfied`
-- Partially Satisfied: `http://vocab.xapi.fr/verbs/partially-satisfied`
 - Dissatisfied: `http://vocab.xapi.fr/verbs/dissatisfied`
+- Failed: `http://adlnet.gov/expapi/verbs/failed`
+- Graded: `http://vocab.xapi.fr/verbs/graded`
+- Partially Passed: `http://vocab.xapi.fr/verbs/partially-passed`
+- Partially Satisfied: `http://vocab.xapi.fr/verbs/partially-satisfied`
+- Passed: `http://adlnet.gov/expapi/verbs/passed`
+- Satisfied: `https://w3id.org/xapi/adl/verbs/satisfied`
+- Scored: `http://adlnet.gov/expapi/verbs/scored`
 - Was Assessed: `http://vocab.xapi.fr/verbs/was-assessed`
 
 
 <a name="interaction"></a>
 ## Interaction
 
-- Asked: `http://adlnet.gov/expapi/verbs/asked`
 - Answered: `http://adlnet.gov/expapi/verbs/answered`
+- Asked: `http://adlnet.gov/expapi/verbs/asked`
 - Requested-attention: `http://id.tincanapi.com/verb/requested-attention`
 
 
 <a name="execution-flow"></a>
 ## Execution Flow
 
-- Launched: `http://adlnet.gov/expapi/verbs/launched`
 - Initialized: `http://adlnet.gov/expapi/verbs/initialized`
+- Launched: `http://adlnet.gov/expapi/verbs/launched`
 - Terminated: `http://adlnet.gov/expapi/verbs/terminated`
 
 
@@ -65,8 +66,8 @@
 ## Management Flow
 
 - Defined: `http://id.tincanapi.com/verb/defined`
-- Voided: `http://adlnet.gov/expapi/verbs/voided`
 - Reset: `http://vocab.xapi.fr/verbs/reset`
+- Voided: `http://adlnet.gov/expapi/verbs/voided`
 
 
 

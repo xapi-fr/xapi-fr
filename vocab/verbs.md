@@ -28,6 +28,13 @@ The user navigated inside an activity (e.g. *navigated in a course*). This verb 
 The user did not satisfy certain conditions or a competency level. This verb is the opposite of `https://w3id.org/xapi/adl/verbs/satisfied`.
 
 
+### graded
+
+**IRI:** `http://vocab.xapi.fr/verbs/graded`
+
+The user got a grade in its gradebook.
+
+
 ### partially-passed
 
 **IRI:** `http://vocab.xapi.fr/verbs/partially-passed`
