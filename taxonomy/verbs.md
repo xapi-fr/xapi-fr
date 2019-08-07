@@ -66,6 +66,7 @@
 
 - Defined: `http://id.tincanapi.com/verb/defined`
 - Voided: `http://adlnet.gov/expapi/verbs/voided`
+- Reset: `http://vocab.xapi.fr/verbs/reset`
 
 
 

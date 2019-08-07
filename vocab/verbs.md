@@ -4,6 +4,7 @@
 
 - [Navigation](#navigation)
 - [Result](#result)
+- [Management Flow](#management-flow)
 
 <a name="navigation"></a>
 ## Navigation
@@ -47,6 +48,17 @@ The user partially satisfied certain conditions or a competency level. This verb
 
 A user was assessed, without notion of success. This verb is a neutral alternative to `http://adlnet.gov/expapi/verbs/passed` and `http://adlnet.gov/expapi/verbs/failed`.
 
+
+
+<a name="management-flow"></a>
+## Management Flow
+
+
+### reset
+
+**IRI:** `http://vocab.xapi.fr/verbs/reset`
+
+Someone reset the learner results.
 
 
 

@@ -4,7 +4,6 @@
 
 - [inside-learning-unit](#inside-learning-unit)
 - [learning-unit](#learning-unit)
-- [outside-learning-unit](#outside-learning-unit)
 - [vle-profile](#vle-profile)
 
 
@@ -24,15 +23,6 @@ to indicate that the event happens inside a learning unit.
 
 IRI used as the ID of an activity with a `http://vocab.xapi.fr/activities/granularity-level` type
 to indicate that the event happens precisely on a learning unit.
-
-
-<a name="outside-learning-unit"></a>
-### outside-learning-unit
-
-**IRI:** `http://vocab.xapi.fr/categories/outside-learning-unit`
-
-IRI used as the ID of an activity with a `http://vocab.xapi.fr/activities/granularity-level` type
-to indicate that the event happens outside a learning unit.
 
 
 <a name="vle-profile"></a>

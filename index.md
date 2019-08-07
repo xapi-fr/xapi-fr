@@ -7,10 +7,10 @@
 - ## Taxonomy
     - [Verbs](/profiles/xapi/taxonomy/verbs)
     - [Activity Types](/profiles/xapi/taxonomy/activities)
+    - [Extensions](/profiles/xapi/taxonomy/extensions)
 
 - ## Profiles
-    - [VLE](/profiles/vle)
-    - [Moodle](/profiles/moodle)
+    - [Moodle / VLE](/profiles/moodle)
     - [xQuiz](/profiles/xquiz)
     - [xProf](/profiles/xprof)
     - [Polaris](/profiles/polaris)

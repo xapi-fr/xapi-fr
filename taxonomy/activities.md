@@ -14,7 +14,7 @@
 ### Resource
 
 - Collaborative Content: `http://vocab.xapi.fr/activities/collaborative-content`
-- Content Unit (SCO): `http://adlnet.gov/expapi/activities/lesson`
+- Content Object (SCO): `http://vocab.xapi.fr/activities/content-object`
 - File: `http://adlnet.gov/expapi/activities/file`
 - Resource Collection: `http://vocab.xapi.fr/activities/resources`
 - Web Content: `http://vocab.xapi.fr/activities/web-content`
@@ -71,6 +71,7 @@
 - Training Module: `http://vocab.xapi.fr/activities/training-module`
 - Training Phase: `http://vocab.xapi.fr/activities/training-phase`
 - Training Program: `http://vocab.xapi.fr/activities/training-program`
+- Training Sequence: `http://vocab.xapi.fr/activities/training-sequence`
 
 
 <a name="competencies"></a>

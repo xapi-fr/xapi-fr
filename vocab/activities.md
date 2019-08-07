@@ -33,6 +33,13 @@ Activity where one or several real-time and textual discussions take place. When
 Content created in a collaborative way, by several authors (e.g. a Wiki).
 
 
+### content-object
+
+**IRI:** `http://vocab.xapi.fr/activities/content-object`
+
+A piece of content (e.g. a SCO).
+
+
 ### external-activity
 
 **IRI:** `http://vocab.xapi.fr/activities/external-activity`
@@ -174,7 +181,7 @@ Generic way to designate a platform where learning activities take place (e.g. L
 
 **IRI:** `http://vocab.xapi.fr/activities/training-program`
 
-A large and structured set of learning activities, focusing on a very large training objective.
+A large and structured set of learning activities, focusing on a global training objective.
 
 
 ### training-phase
@@ -188,8 +195,16 @@ A sub-set of a training programme, where the learning activities take place duri
 
 **IRI:** `http://vocab.xapi.fr/activities/training-module`
 
-A sub-set of a training programme, where the learning activities focus on a specific training objective.
+A structured set of training activities, focusing on a large training objective.
+A training module may be a sub-set of a training programme or phase.
 
+
+### training-sequence
+
+**IRI:** `http://vocab.xapi.fr/activities/training-sequence`
+
+A linear set of training activities, focusing on an intermediate training objective.
+A training sequence may be a sub-set of a training programme, phase or module.
 
 
 
