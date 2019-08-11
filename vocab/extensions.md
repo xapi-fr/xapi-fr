@@ -48,6 +48,13 @@ This extension accepts a boolean value. The statements of a deferred activity ar
 This extension accepts a list of values (tags or IRI) which refer to learning outcomes associated with the activity.
 
 
+### mandatory
+
+**IRI:** `http://vocab.xapi.fr/extensions/mandatory`
+
+This extension accepts a boolean value. A mandatory activity must be achieved by learners.
+
+
 ### more-description
 
 **IRI:** `http://vocab.xapi.fr/extensions/more-description`
@@ -103,6 +110,20 @@ This extension is used to specify a standard the activity complies with (e.g. `s
 
 This extension accepts a list of assessment items being part of an assessment activity.
 Each item has an `id` property, as well as a `value` property containing the learner score for the item. 
+
+
+### remedial-score
+
+**IRI:** `http://vocab.xapi.fr/extensions/remedial-score`
+
+This extension accepts a JSON object. It is equivalent to the result score for activities which need to store both an initial and remedial score.
+
+
+### remedial-success
+
+**IRI:** `http://vocab.xapi.fr/extensions/remedial-success`
+
+This extension accepts a boolean value. It is equivalent to the result success for activities which need to store both an initial and remedial success.
 
 
 ### responses
@@ -172,6 +193,13 @@ This extension defines the maximum number of attempts allowed on the object.
 **IRI:** `http://vocab.xapi.fr/extensions/max-time`
 
 This extension defines the maximum time allowed to achieve an activity (ISO 8601).
+
+
+### page
+
+**IRI:** `http://vocab.xapi.fr/extensions/page`
+
+This extension is used to specify a page ID, number or name.
 
 
 ### platform-event

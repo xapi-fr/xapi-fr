@@ -17,9 +17,11 @@
 - Deferred: `http://vocab.xapi.fr/extensions/deferred`
 - Duration: `http://id.tincanapi.com/extension/duration`
 - Learning Outcomes: `http://vocab.xapi.fr/extensions/learning-outcomes`
+- Mandatory: `http://vocab.xapi.fr/extensions/mandatory`
 - More Description: `http://vocab.xapi.fr/extensions/more-description`
 - Number of Options: `http://vocab.xapi.fr/extensions/number-of-options`
 - Platform Concept: `http://vocab.xapi.fr/extensions/platform-concept`
+- Position: `http://id.tincanapi.com/extension/position`
 - Question Type: `http://vocab.xapi.fr/extensions/question-type`
 - Remedial: `http://vocab.xapi.fr/extensions/remedial`
 - Standard: `http://vocab.xapi.fr/extensions/standard`
@@ -29,6 +31,8 @@
 ## Result Extensions
 
 - Assessment Items: `http://vocab.xapi.fr/extensions/assessment-items`
+- Remedial Score: `http://vocab.xapi.fr/extensions/remedial-score`
+- Remedial Success: `http://vocab.xapi.fr/extensions/remedial-success`
 - Responses: `http://vocab.xapi.fr/extensions/responses`
 - Satisfactory Indicators: `http://vocab.xapi.fr/extensions/satisfactory-indicators`
 - Unsatisfactory Indicators: `http://vocab.xapi.fr/extensions/unsatisfactory-indicators`
@@ -46,11 +50,14 @@
 - Mastery Score: `https://w3id.org/xapi/cmi5/context/extensions/masteryscore`
 - Max Number of Attempts: `http://vocab.xapi.fr/extensions/max-attempts`
 - Max Allowed Time: `http://vocab.xapi.fr/extensions/max-time`
+- Page: `http://vocab.xapi.fr/extensions/page`
 - Platform Event: `http://vocab.xapi.fr/extensions/platform-event`
 - Question Mode: `http://vocab.xapi.fr/extensions/question-mode`
 - Question Weighting: `http://id.tincanapi.com/extension/cmi-interaction-weighting`
 - Score Method: `http://vocab.xapi.fr/extensions/scoring-method`
 - Session ID: `https://w3id.org/xapi/cmi5/context/extensions/sessionid`
+
+
 
 
 
