@@ -64,6 +64,7 @@
 <a name="structural"></a>
 ## Structural Activity
 
+- Consumer (LTI): `http://vocab.xapi.fr/activities/consumer`
 - Course: `http://vocab.xapi.fr/activities/course`
 - Course Category: `http://vocab.xapi.fr/activities/course-category`
 - Registration: `http://vocab.xapi.fr/activities/registration`

@@ -149,6 +149,13 @@ A collaborative activity animated by a teacher.
 ## Structural Activity
 
 
+### consumer
+
+**IRI:** `http://vocab.xapi.fr/activities/consumer`
+
+A system from which learning activities are consumed (e.g. an LTI consumer).
+
+
 ### course
 
 **IRI:** `http://vocab.xapi.fr/activities/course`
