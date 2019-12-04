@@ -67,6 +67,7 @@
 - Consumer (LTI): `http://vocab.xapi.fr/activities/consumer`
 - Course: `http://vocab.xapi.fr/activities/course`
 - Course Category: `http://vocab.xapi.fr/activities/course-category`
+- Course Section: `http://vocab.xapi.fr/activities/course-section`
 - Registration: `http://vocab.xapi.fr/activities/registration`
 - System: `http://vocab.xapi.fr/activities/system`
 - Training Module: `http://vocab.xapi.fr/activities/training-module`

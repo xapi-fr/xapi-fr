@@ -13,6 +13,7 @@
 - Assessment: `http://vocab.xapi.fr/extensions/assessment`
 - Concept Family: `http://vocab.xapi.fr/extensions/concept-family`
 - Correct Responses: `http://vocab.xapi.fr/extensions/correct-responses`
+- Course Structure: `http://vocab.xapi.fr/extensions/course-structure`
 - Date: `http://id.tincanapi.com/extension/date`
 - Deferred: `http://vocab.xapi.fr/extensions/deferred`
 - Duration: `http://id.tincanapi.com/extension/duration`
@@ -56,6 +57,7 @@
 - Question Weighting: `http://id.tincanapi.com/extension/cmi-interaction-weighting`
 - Score Method: `http://vocab.xapi.fr/extensions/scoring-method`
 - Session ID: `https://w3id.org/xapi/cmi5/context/extensions/sessionid`
+- User Role: `http://vocab.xapi.fr/extensions/user-role`
 
 
 

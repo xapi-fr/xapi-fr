@@ -34,6 +34,13 @@ For instance, *forum* and *chat* activities belong to a larger family named *dis
 This extension accepts a list of values and is an alternative to the `definition.correctResponsesPattern` property when the activity type is not a `cmi.interaction`.
 
 
+### course-structure
+
+**IRI:** `http://vocab.xapi.fr/extensions/course-structure`
+
+This extension defines the structure of a course.
+
+
 ### deferred
 
 **IRI:** `http://vocab.xapi.fr/extensions/deferred`
@@ -221,6 +228,13 @@ This extension details the context in which a question were asked.
 **IRI:** `http://vocab.xapi.fr/extensions/scoring-method`
 
 This extension defines which score must be kept when the learner gets multiple scores. 
+
+
+### user-role
+
+**IRI:** `http://vocab.xapi.fr/extensions/user-role`
+
+This extension defines the role of a user in a given context. 
 
 
 

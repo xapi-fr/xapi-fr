@@ -29,6 +29,7 @@
 ## Completion
 
 - Completed: `http://adlnet.gov/expapi/verbs/completed`
+- Marked-Completion: `http://vocab.xapi.fr/verbs/marked-completion`
 - Progressed: `http://adlnet.gov/expapi/verbs/progressed`
 
 
@@ -66,6 +67,7 @@
 ## Management Flow
 
 - Defined: `http://id.tincanapi.com/verb/defined`
+- Registered: `http://adlnet.gov/expapi/verbs/registered`
 - Reset: `http://vocab.xapi.fr/verbs/reset`
 - Voided: `http://adlnet.gov/expapi/verbs/voided`
 

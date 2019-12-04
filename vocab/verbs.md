@@ -3,8 +3,10 @@
 ---
 
 - [Navigation](#navigation)
+- [Completion](#completion)
 - [Result](#result)
 - [Management Flow](#management-flow)
+
 
 <a name="navigation"></a>
 ## Navigation
@@ -14,6 +16,17 @@
 **IRI:** `http://vocab.xapi.fr/verbs/navigated-in`
 
 The user navigated inside an activity (e.g. *navigated in a course*). This verb is used when it is not possible to defined more precisely what has been seen in the activity. Otherwise, the verb `http://id.tincanapi.com/verb/viewed` is prefered (e.g. *viewed a course page*).
+
+
+
+<a name="completion"></a>
+## Completion
+
+### marked-completion
+
+**IRI:** `http://vocab.xapi.fr/verbs/marked-completion`
+
+The learner marked an activity as completed or not completed. The is a declarative completion.
 
 
 
