@@ -26,7 +26,8 @@
 - Chat Channel: `http://id.tincanapi.com/activitytype/chat-channel`
 - Chat Room: `http://vocab.xapi.fr/activities/chat-room`
 - Forum: `http://vocab.xapi.fr/activities/forum`
-- Forum Discussion: `http://id.tincanapi.com/activitytype/discussion`
+- Forum Topic: `http://id.tincanapi.com/activitytype/forum-topic`
+- Forum Reply: `http://id.tincanapi.com/activitytype/forum-reply`
 
 ### Event
 

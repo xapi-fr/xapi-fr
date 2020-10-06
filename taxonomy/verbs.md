@@ -52,6 +52,7 @@
 
 - Answered: `http://adlnet.gov/expapi/verbs/answered`
 - Asked: `http://adlnet.gov/expapi/verbs/asked`
+- Created: `https://w3id.org/xapi/dod-isd/verbs/created`
 - Requested-attention: `http://id.tincanapi.com/verb/requested-attention`
 
 

@@ -65,7 +65,7 @@ Flight session.
 
 **IRI:** `http://vocab.xapi.fr/activities/forum`
 
-Discussion forum where several discussions take place. The type of each discussion taken individually is `http://id.tincanapi.com/activitytype/discussion`.
+Discussion forum where several discussions or topics take place. The type of each discussion taken individually is `http://id.tincanapi.com/activitytype/forum-topic`.
 
 
 ### level-report
