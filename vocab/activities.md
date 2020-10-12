@@ -12,6 +12,13 @@
 ## Learning Activity
 
 
+### annotation
+
+**IRI:** `http://vocab.xapi.fr/activities/annotation`
+
+A small piece of content inserted in a given context.
+
+
 ### assignment
 
 **IRI:** `http://vocab.xapi.fr/activities/assignment`

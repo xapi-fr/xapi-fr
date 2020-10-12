@@ -20,6 +20,7 @@
 - Web Content: `http://vocab.xapi.fr/activities/web-content`
 - Web Page: `http://vocab.xapi.fr/activities/web-page`
 - Web Link: `http://vocab.xapi.fr/activities/web-link`
+- Annotation: `http://vocab.xapi.fr/activities/annotation`
 
 ### Discussion
 
