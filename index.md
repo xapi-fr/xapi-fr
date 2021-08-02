@@ -14,4 +14,5 @@
     - [xQuiz](/profiles/xquiz)
     - [xProf](/profiles/xprof)
     - [Polaris](/profiles/polaris)
+    - [Astral](/profiles/astral)
 
